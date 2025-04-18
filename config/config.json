@@ -1,0 +1,9 @@
+{
+    "token": "your_telegram_bot_token",
+    "channel_id": "your_telegram_chat_id",
+    "search_terms": ["ralph lauren", "nike"],
+    "refresh_delay": 3,
+    "max_images_per_post": 4,
+    "countries": [".de", ".it", ".fr"]
+  }
+  
