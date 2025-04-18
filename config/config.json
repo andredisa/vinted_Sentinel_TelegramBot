@@ -5,5 +5,4 @@
     "refresh_delay": 3,
     "max_images_per_post": 4,
     "countries": [".de", ".it", ".fr"]
-  }
-  
+}
