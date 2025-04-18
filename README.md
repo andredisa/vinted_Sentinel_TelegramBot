@@ -1,4 +1,4 @@
-# Vinted Monitor 🚀📦
+# Vinted Sentinel 🚀📦
 
 **Your personal shopping assistant for Vinted!** This powerful bot monitors Vinted products in real-time and sends instant notifications directly to your Telegram. It's not just a bot—it's your **ultimate shopping tool**, designed to save you time and bring you the best Vinted deals as they drop! 🎉💥
 
@@ -170,7 +170,8 @@ pip install -r requirements.txt
 ## 📝 License
 >This project is licensed under the MIT License. You are free to use, modify, and distribute it as you like.
 
-### 💬 Feel free to reach out on [GitHub](https://github.com/andredisa) or by [email](mailto:andreadisanti22@gmail.com)!
+---
 
+> 💬 Feel free to reach out on [GitHub](https://github.com/andredisa) or by [email](mailto:andreadisanti22@gmail.com)!
 
-### 🎉 Enjoy using the Vinted Monitor! 🎉
+### 🎉 Enjoy using the Vinted Sentinel! 🎉
