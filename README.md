@@ -56,7 +56,7 @@ The **Vinted Monitor** bot connects directly to **Vinted’s API**, performs adv
 
 ### 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/your-username/vinted-monitor.git
+git clone https://github.com/your-username/vinted_Sentinel_TelegramBot.git
 cd vinted-monitor
 
 ```
